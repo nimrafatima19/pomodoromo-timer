@@ -5,14 +5,15 @@
 }
 
 body{
-    background-image: url(images/t3.png);
+    background-image: url(images/t5.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 150px;
+   
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 
 }
 
@@ -54,13 +55,13 @@ gap:5px;
 
 .b2{
     
-        background-color: rgb(4, 125, 141);
-        color: white;
+        background-color: rgb(253, 253, 253);
+        color: rgb(0, 0, 0);
         
     }
     .b2:hover{
-        background-color: rgb(255, 255, 255);
-        color:rgb(21, 90, 194)
+        background-color: rgb(0, 0, 0);
+        color:rgb(255, 255, 255)
         
     }
 
